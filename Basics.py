@@ -3,9 +3,14 @@
 
 # In[ ]:
 
-
-
-
+print("Title: " Mobile App Data Analysis Project)
+print("We're working as data analysts for a company that develops free mobile apps for Android and iOS.")
+print("Since our apps make money through in-app ads, our revenue depends on how many people use them.")
+print("Our goal in this project is to figure out what kinds of apps are most likely to attract a large number of users.")
+print("By analyzing data from the App Store and Google Play, we can help our developers make informed decisions about")
+print(which types of apps to create.")
+print("As of September 2018, there were around 2 million apps on the App Store and 2.1 million on Google Play,")
+print("making it essential to choose the right type of app to stand out in the competitive market.")
 
 # In[1]:
 
